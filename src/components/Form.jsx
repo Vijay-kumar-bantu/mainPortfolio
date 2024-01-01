@@ -39,7 +39,6 @@ const Form = () => {
       );
     } catch (err) {
       console.log(err);
-      console.log(import.meta.env.VITE_API_ADDRESS);
     }
   };
 
