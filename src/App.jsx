@@ -75,7 +75,7 @@ function App() {
               <p className="bg-buttoncolor w-fit p-5 font-extrabold text-white rounded-md flex items-center gap-2 cursor-pointer">
                 <p>
                   <a
-                    href="https://drive.google.com/uc?export=download&id=1HLRRAXo2UIYJVYWZju1OJ42Zw9coRXa2"
+                    href="https://drive.google.com/uc?export=download&id=1XwmuZLUkBcBWEwOEViOR_CBnthjw55Kv"
                     download
                   >
                     Resume Download
