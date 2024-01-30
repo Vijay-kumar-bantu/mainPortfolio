@@ -2,8 +2,17 @@ import todo from "./images/todoapp.png";
 import budget from "./images/budget.png";
 import blog from "./images/blog.png";
 import portfolio from "./images/basicportfolio.png";
+import tictactoe from "./SVG/tictactoe.png";
 
 const data = [
+  {
+    name: "Tic tac toe",
+    image: tictactoe,
+    desc: "Tic tac toe game desinged with React js and react-router",
+    code: "https://github.com/Vijay-kumar-bantu/tic-tac-toe",
+    deploy: true,
+    web: "https://tic-tac-toe-psi-three-24.vercel.app/",
+  },
   {
     name: "Todo app list",
     image: todo,
