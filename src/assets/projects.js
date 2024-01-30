@@ -2,7 +2,7 @@ import todo from "./images/todoapp.png";
 import budget from "./images/budget.png";
 import blog from "./images/blog.png";
 import portfolio from "./images/basicportfolio.png";
-import tictactoe from "./SVG/tictactoe.png";
+import tictactoe from "./images/tictactoe.png";
 
 const data = [
   {
