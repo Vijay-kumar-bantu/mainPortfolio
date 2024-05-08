@@ -5,7 +5,11 @@ const Project = ({ project }) => {
   return (
     <div className="lg:min-h-[500px] p-3 flex flex-col justify-between gap-5 rounded-md shadow-lg">
       <div className="h-[60%]">
-        <img src={image} className="h-full object-fill rounded-md" />
+        <img
+          src={image}
+          className="h-full object-fill rounded-md"
+          alt="project-demo-image"
+        />
       </div>
       <h1 className="text-xl lg:text-2xl font-secondary font-extrabold">
         {name}

@@ -3,8 +3,17 @@ import budget from "./images/budget.png";
 import blog from "./images/blog.png";
 import portfolio from "./images/basicportfolio.png";
 import tictactoe from "./images/tictactoe.png";
+import chat_app from "./images/chat_app.png";
 
 const data = [
+  {
+    name: "Real time chat app",
+    image: chat_app,
+    desc: "A basic chat app made with React and socket.io",
+    code: "https://github.com/Vijay-kumar-bantu/chapt_app",
+    deploy: false,
+    web: "",
+  },
   {
     name: "Tic tac toe",
     image: tictactoe,
