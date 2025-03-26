@@ -1,5 +1,4 @@
 import todo from "./images/todoapp.png";
-import budget from "./images/budget.png";
 import blog from "./images/blog.png";
 import tictactoe from "./images/tictactoe.png";
 import chat_app from "./images/chat_app.png";
