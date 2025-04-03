@@ -7,8 +7,8 @@ const data = [
 	{
 		name: "Real time chat app",
 		image: chat_app,
-		desc: "A basic chat app made with React and socket.io",
-		code: "https://github.com/Vijay-kumar-bantu/chapt_app",
+		desc: "A basic chat app made with React,Node js,Express js, websockets,MongoDB and turbo",
+		code: "https://github.com/Vijay-kumar-bantu/chat-app-turbo",
 		deploy: false,
 		web: "",
 	},
