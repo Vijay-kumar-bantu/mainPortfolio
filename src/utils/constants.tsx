@@ -5,4 +5,4 @@ export const contacts = {
 };
 
 export const resumeLink =
-	"https://drive.google.com/uc?export=download&id=1vo-w69MzUcdGTILMRFCjZ0dWvPqC1Fdt";
+	"https://drive.google.com/uc?export=download&id=1MsibEp2WyiJlEJOMZ5J01kobVsvPpYrs";
